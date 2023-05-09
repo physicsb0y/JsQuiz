@@ -1,0 +1,22 @@
+[
+    {
+        "name":"Sagar Dhungana",
+        "age": 25,
+        "email": "sagar@gmail.com"
+    },
+    {
+        "name": "Suman Dhungana",
+        "age": 22,
+        "email": "suman@gmail.com"
+    },
+    {
+        "name": "Deepak K",
+        "age": 25,
+        "email": "deepak@gmail.com"
+    },
+    {
+        "name": "John M",
+        "age": 26,
+        "email": "john@gmail.com"
+    }
+]
